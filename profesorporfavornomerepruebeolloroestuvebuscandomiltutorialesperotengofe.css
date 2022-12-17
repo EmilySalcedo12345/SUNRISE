@@ -1,0 +1,63 @@
+body { background-image: url("D:/COMPUTO 2022/EXAMEN BIMESTRAL-TRABAJO FINAL/imagenes/imagen.jpg")}
+
+body {font-family:Century Gothic;}
+.a1 {
+  display: flex-start;
+  justify-content: left;
+  color:#f5a779;
+  position: absolute;
+}
+.a2 {
+    display: flex;
+    justify-content: center;
+    color:#f5a779;
+    position: relative;
+  }
+  .T1
+  { 
+  width: 1000px;
+  height: 220px;
+  display: flex;
+  justify-content: center;
+  color:#ffffff;
+  background-color: #c37bfd;
+  position: relative;
+  top:35px;
+  left:450px;
+  }
+  .b1
+  { 
+  width: 600px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  color:#ffffff;
+  background-color: #f3bf4f;
+  position: relative;
+  top:75px;
+  left:650px;
+  }
+  .b2
+  { 
+  width: 600px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  color:#ffffff;
+  background-color: #f3bf4f;
+  position: relative;
+  top:90px;
+  left:650px;
+  }
+  .b3
+  { 
+  width: 600px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  color:#ffffff;
+  background-color: #f3bf4f;
+  position: relative;
+  top:105px;
+  left:650px;
+  }

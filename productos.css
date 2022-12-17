@@ -1,0 +1,107 @@
+body { background-image: url("D:/COMPUTO 2022/EXAMEN BIMESTRAL-TRABAJO FINAL/imagenes/imagen.jpg")}
+
+body {font-family:Century Gothic;}
+.a1 {
+  display: flex-start;
+  justify-content: left;
+  position: absolute;
+}
+.a2 {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  color:#f0b548;
+  height: 45px;
+}
+.T1 { 
+  width: 650px;
+  height:190px;
+  display: flex;
+  justify-content: center;
+  color:#ffffff;
+  background-color: #897a96;
+  position: relative;
+  top:30px;
+  left:600px;
+  }
+
+  #menuhorizontal {
+    margin:0;
+    padding:0;
+    list-style-type:none;
+    } #menuhorizontal a { 
+    width:375px;
+    text-decoration:none;
+    text-align:center;
+    color:#ffffff;
+    background-color:#ffaf1b;
+    padding:3px 5px;
+    border:1px solid rgb(253, 210, 153);
+    display:block; }
+    
+    #menuhorizontal a:hover {
+    background-color:#f3bb68;
+    }
+    #menuhorizontal{
+      display: flex;
+      justify-content: space-around;
+      top:200px
+    }
+  .imagen {
+      width: 30%;
+      height: 90%;
+      justify-content: center;
+      margin-bottom: 10px;
+      margin-left: 10px;
+      overflow: hidden;
+      cursor: pointer;
+      box-shadow: 0 0 6px rgba(0, 0, 0, .5);
+  }
+
+  .imgbts {
+display: flex;
+justify-content: space-evenly;
+  }
+  .imgbts img{
+      display: flex;
+      width: 200px;
+      height: 200px;
+      position: relative;
+    }
+
+    .imgbla {
+      display: flex;
+      justify-content: space-evenly;
+        }
+  .imgbla img{
+      display: flex;
+      width: 200px;
+      height: 200px;
+      position: relative;
+   }
+   
+  .imgtwi {
+    display: flex;
+    justify-content: space-evenly;
+      }
+
+   .imgtwi img{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    position: relative;
+  }
+
+  .imgitz {
+    display: flex;
+    justify-content:space-evenly;
+      }
+  .imgitz img{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    position: relative;
+  }
+  .imagen-port{
+    width: 95%;
+}

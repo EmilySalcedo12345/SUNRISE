@@ -1,0 +1,26 @@
+body { background-image: url("D:/COMPUTO 2022/EXAMEN BIMESTRAL-TRABAJO FINAL/imagenes/imagen.jpg")}
+
+body {font-family:Century Gothic;}
+.a1 {
+  display: flex-start;
+  justify-content: left;
+  position: absolute;
+}
+.a2 {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  color:#f0b548;
+  height: 45px;
+}
+.loguear { 
+  width: 650px;
+  height:95px;
+  display: flex;
+  justify-content: center;
+  color:#ffffff;
+  background-color: #897a96;
+  position: relative;
+  top:50px;
+  left: 610px;
+  }
